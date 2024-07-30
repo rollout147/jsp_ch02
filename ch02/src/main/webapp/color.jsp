@@ -10,7 +10,7 @@
 		margin: 10px;
 		padding: 20px;	/* 상하좌우 20px 공간주기 */
 		background-color: white;
-		font-size: 30px;
+		font-size: 36px;
 	}
 </style>
 </head>
